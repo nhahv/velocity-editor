@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nhahv.velocityeditor.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nhahv.velocityeditor.MyBundle
 
 class MyApplicationService {
 
